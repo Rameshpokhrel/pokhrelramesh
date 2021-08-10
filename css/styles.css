@@ -11038,7 +11038,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: #ABB2B9;
   font-size: 2rem;
   padding: 1rem;
 }
@@ -11049,7 +11049,7 @@ html {
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
     font-size: 3rem;
-    line-height: 2.5rem;
+    line-height: 6.5rem;
   }
 }
 
